@@ -14,7 +14,7 @@ public class Chaudron {
 	}
 	
 	public int prendreLouche() {
-		quantitePotion -= 1;
+		quantitePotion--;
 		if (quantitePotion < 1) {
 			forcePotion = 0;
 		}
