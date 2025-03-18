@@ -1,4 +1,4 @@
-package objet;
+package objets;
 
 public enum Equipement {
 	CASQUE("casque"),

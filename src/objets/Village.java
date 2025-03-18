@@ -1,4 +1,4 @@
-package objet;
+package objets;
 
 import personnages.Gaulois;
 
