@@ -26,7 +26,7 @@ public class Scenario {
 		do {
 			asterix.frapper(minus);
 		} while (minus.getForce() > 0);
-		milexcus.parler("UN GAU... UN GAUGAU...");
+		milegixcus.parler("UN GAU... UN GAUGAU...");
 		do {
 			asterix.frapper(milexcus);
 		} while (milexcus.getForce() > 0);
